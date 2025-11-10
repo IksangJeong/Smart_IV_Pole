@@ -88,12 +88,15 @@ const Sidebar: React.FC = () => {
       <div className="p-6 border-b border-slate-700">
         <div className={`flex items-center ${collapsed ? 'justify-center' : 'justify-between'}`}>
           {!collapsed && (
-            <div className="flex items-center gap-2">
+            <button
+              onClick={() => handleNavigation('/')}
+              className="flex items-center gap-2 cursor-pointer hover:opacity-80 transition"
+            >
               <div className="w-8 h-8 bg-blue-500 rounded flex items-center justify-center">
                 <span className="text-white font-bold text-sm">IV</span>
               </div>
               <span className="font-semibold text-lg">MEDIPOLE</span>
-            </div>
+            </button>
           )}
           <button
             onClick={toggleSidebar}

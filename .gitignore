@@ -17,6 +17,7 @@ backend/.classpath
 backend/.project
 backend/.mvn/
 backend/mvnw
+
 backend/mvnw.cmd
 backend/logs/
 backend/*.log
@@ -121,3 +122,6 @@ ENV/
 *.zip
 *.tar.gz
 *.rar
+
+# YAML configuration files
+*.yml
