@@ -6,11 +6,13 @@ IoT 기반 수액 모니터링 시스템 | 2025 졸업작품
 
 ## 결과물
 
-<!-- 사진 추가 -->
-![Smart IV Pole System](./docs/images/result.png)
+<!-- 사진 추가 --><img width="1614" height="790" alt="스크린샷 2026-04-01 09 39 23" src="https://github.com/user-attachments/assets/a41a07af-ea2f-4935-9a0f-00ffed905694" />
+![완성사진](https://github.com/user-attachments/assets/57bc2775-16da-47a4-9a9d-b808c79c44d5)
+[곡면 커버 도면 v2.pdf](https://github.com/user-attachments/files/26392524/v2.pdf)
+
+[구상도 도면 v1.pdf](https://github.com/user-attachments/files/26392525/v1.pdf)
 
 ---
-
 ## 프로젝트 개요
 
 기존 링거 폴대에 센서 모듈을 부착하여 **수액 잔량을 실시간 모니터링**하고, 교체 시점을 자동으로 알려주는 시스템입니다.
